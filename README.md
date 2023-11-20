@@ -4,7 +4,7 @@
 
 **`Cloud Engineer & Devops Engineer & Site Reliability Engineer`**
 
-I'm Adeyemi Ogunleye a **Cloud & Devops Engineer** (specializing in **AWS**, **Terraform** & **Azure** Applications) with diverse IT background which includes practical experience in Cloud Native Technologies, Infrastructure as Code, Continuous Integration/Continuous Delivery pipelines, Microservice architecture, Containerization and Orchestration with Kubernetes as well as monitoring critical applications using DevOps/SRE best practices.
+I'm Adeyemi Ogunleye a **Cloud & Devops Engineer** (specializing in **AWS**, & **Azure** Applications) with diverse IT background which includes practical experience in Cloud Native Technologies, Infrastructure as Code, Continuous Integration/Continuous Delivery pipelines, Microservice architecture, Containerization and Orchestration with Kubernetes as well as monitoring critical applications using DevOps/SRE best practices.
 
 I am passionate about technology and Cloud Services. I enjoy a hands-on approach to technology. My background has allowed me to build a strong technical skill-set allowing me to devise creative solutions for various clients. I have a proven ability to deliver to demanding time scales, as well as working closely with clients to realize their aspirations.
 
@@ -26,11 +26,6 @@ I am passionate about technology and Cloud Services. I enjoy a hands-on approach
 | Agile Methedology | <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |
 | Testing |<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />|
 | Frontend | <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" /> |
-| Database | <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-| Queue / Messaging | <img alt="AWS SQS" src="https://img.shields.io/badge/-AWS_SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Azure Service Bus" src="https://img.shields.io/badge/-Azure_Service_Bus-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> |
-| Databases | <img alt="AmazonRDS" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" /> 
-
-###### Collaboration Tools:
-	-	Slack
-	-	Confluence
-	-	JIRA
+| Database | <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="AmazonRDS" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" /> 
+| Queue / Messaging | <img alt="AWS SQS" src="https://img.shields.io/badge/-AWS_SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="AWS SNS" src="https://img.shields.io/badge/-AWS_SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Azure Service Bus" src="https://img.shields.io/badge/-Azure_Service_Bus-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> |
+| Collaboration Tools | <img alt="Slack" src="https://img.shields.io/badge/-slack-4A154B?style=flat-square&logo=slack&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Slack" src="https://img.shields.io/badge/-jira-0052cc?style=flat-square&logo=jira&logoColor=white" /> |
