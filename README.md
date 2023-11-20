@@ -30,31 +30,7 @@ I am passionate about technology and Cloud Services. I enjoy a hands-on approach
 | Queue / Messaging | <img alt="AWS SQS" src="https://img.shields.io/badge/-AWS_SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Azure Service Bus" src="https://img.shields.io/badge/-Azure_Service_Bus-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> |
 | Databases | <img alt="AmazonRDS" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" /> 
 
-###### Business Delivery:
--	Collaborate with the product owner to gather requirements, design, and solve complex problems
--	Participate in design meetings and analyze user needs to determine technical requirements
--	Evaluate, improve, and maintain information security
--	Firewalls, Routing Tables, Apply Security Patches and updates
--	Provide DevOps Work
--	Provide script for automation
--	Create Cron Jobs
-
-###### Technology Stack:
--	Provision virtual machines and network configuration
-	-	Centos 7, REDHAT, Ubuntu
-	-	TCP/IP, DNS, VLAN, SSH, SSL
--	Provision and Configure required software onto provisioned
-	-	Web Servers - Apache Kafka
-	-	Database Servers - PostgreSQL
--	Monitor Servers and processes for failures and performance bottlenecks
-	-	Nagios
--	Configuration Management
-	-	Puppet
--	Scripting
-	-	Bash, Python, Ruby
--	Source Control
-	-	Git, GitHub
--	Collaboration Tools
+###### Collaboration Tools:
 	-	Slack
 	-	Confluence
 	-	JIRA
